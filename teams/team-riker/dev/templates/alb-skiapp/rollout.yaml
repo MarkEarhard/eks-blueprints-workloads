@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Rollout
 metadata:
-  name: skiapp-rollout
+  name: skiapp-rolloutz
   namespace: team-riker
   labels:
     app: skiapp
